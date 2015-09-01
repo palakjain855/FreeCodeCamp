@@ -7,6 +7,8 @@
 Welcome to Free Code Camp's open source codebase!
 =======================
 
+[![Join the chat at https://gitter.im/palakjain855/FreeCodeCamp](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/palakjain855/FreeCodeCamp?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Free Code Camp is an open-source community of busy people who learn to code, then build projects for nonprofits.
 
 Our campers (students) start by working through our free, self-paced, browser-based curriculum. Next, they build several practice projects. Finally, we pair two campers together with a stakeholder from a nonprofit organization, and help them build the solution the nonprofit has requested.
